@@ -1,6 +1,6 @@
 package com.example.demo.auth.resources;
 
-import com.example.demo.auth.server.DemoApplication;
+//import com.example.demo.auth.server.DemoApplication;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.server.ConfigurableWebServerFactory;
